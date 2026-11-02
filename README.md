@@ -402,5 +402,4 @@ L'atelier a permis de mettre en place une application web complète suivant le p
 ## Références
 
 - Énoncé de l'atelier : *Application web basée sur MVC2 et JPA*, Pr. ELAACHAK Lotfi, FST Tanger
-- [Put JPA in your web app: Tomcat + EclipseLink](https://blogs.sap.com/2012/12/11/put-jpa-in-your-web-app-tomcat-eclipselin/)
-- [ObjectDB : Storing JPA entities](https://www.objectdb.com/java/jpa/persistence/store)
+
