@@ -3,7 +3,7 @@
 **Atelier JEE** : Université Abdelmalek Essaâdi, Faculté des Sciences et Techniques de Tanger
 Département Génie Informatique, cycle ingénieur **LSI**
 Encadrant : **Pr. ELAACHAK Lotfi**
-Réalisé par : **<Nom Prénom>**
+Réalisé par : **DAMI Sara**
 
 ---
 
