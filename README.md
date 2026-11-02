@@ -143,13 +143,9 @@ Le fichier `web.xml` est en version **Servlet 3.1** : l'archétype le génère d
 
 **Configuration de Tomcat dans IntelliJ (Smart Tomcat)**
 
-![Configuration Smart Tomcat](docs/images/configuration-tomcat.png)
+![Configuration Smart Tomcat](docs/configuration-tomcat.png)
 
-**Validation de l'étape : le projet est déployé et la page s'affiche**
 
-![Page de test](docs/images/hello-world.png)
-
----
 
 ## 6. Étape 3 : Couche modèle et persistance JPA
 
@@ -261,11 +257,11 @@ Chaque écriture suit le schéma `begin()` → opération → `commit()`, avec `
 
 Un programme de test (`TestJPA`) enregistre des produits, un internaute et un panier avec deux lignes. Les quatre tables ont été créées automatiquement par EclipseLink.
 
-![Tables dans phpMyAdmin](docs/images/phpmyadmin-tables.png)
+![Tables dans phpMyAdmin](docs/phpmyadmin-tables.png)
 
 Le concepteur de phpMyAdmin montre les clés étrangères correspondant aux relations du diagramme : `ligne_panier` vers `panier` et vers `produit`, et `panier` vers `internaute`.
 
-![Concepteur phpMyAdmin](docs/images/phpmyadmin-designer.png)
+![Concepteur phpMyAdmin](docs/phpmyadmin-designer.png)
 
 ---
 
@@ -319,15 +315,15 @@ Les JSP ne contiennent **aucune logique métier ni requête** : elles affichent 
 
 **Vitrine (visiteur non connecté)**
 
-![Vitrine visiteur](docs/images/vitrine-visiteur.png)
+![Vitrine visiteur](docs/vitrine-visiteur.png)
 
 **Vitrine (internaute connecté)** : le menu affiche le prénom, le lien « Mon panier » et « Déconnexion ».
 
-![Vitrine connecté](docs/images/vitrine-connecte.png)
+![Vitrine connecté](docs/vitrine-connecte.png)
 
 **Panier** : chaque ligne affiche le produit, le prix unitaire, la quantité et le sous-total, puis le total du panier.
 
-![Panier](docs/images/panier.png)
+![Panier](docs/panier.png)
 
 ---
 
