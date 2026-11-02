@@ -78,7 +78,7 @@ Les JSP sont placées dans `WEB-INF/vues/` : le navigateur ne peut pas les appel
 
 Le diagramme se concentre sur la gestion du **panier**, de la **vitrine** et de l'**internaute**. Il a été réalisé avec Lucidchart.
 
-![Diagramme de classes](docs/images/diagramme-classes.png)
+![Diagramme de classes](docs/diagramme-classes.png)
 
 **Choix de conception**
 
